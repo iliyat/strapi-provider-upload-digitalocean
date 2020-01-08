@@ -33,10 +33,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/AdamZikmund/strapi-provider-upload-digitalocean.git"
+    "url": "git://github.com/iliyat/strapi-provider-upload-digitalocean.git"
   },
   "bugs": {
-    "url": "https://github.com/AdamZikmund/strapi-provider-upload-digitalocean/issues"
+    "url": "https://github.com:iliyat/strapi-provider-upload-digitalocean/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
