@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-digitalocean",
-  "version": "3.0.0-alpha.18.1",
+  "version": "3.0.0",
   "description": "Digital ocean spaces provider for Strapi upload plugin",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -36,7 +36,7 @@
     "url": "git://github.com/iliyat/strapi-provider-upload-digitalocean.git"
   },
   "bugs": {
-    "url": "https://github.com:iliyat/strapi-provider-upload-digitalocean/issues"
+    "url": "https://github.com/iliyat/strapi-provider-upload-digitalocean/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
